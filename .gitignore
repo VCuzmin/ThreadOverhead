@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/ThreadOverheadExample/v16/.suo
+/ThreadOverheadExample/bin/Debug/netcoreapp3.1
+/ThreadOverheadExample/obj
+/ThreadOverheadExampleNetFramework/bin/Debug
+/ThreadOverheadExampleNetFramework/obj/Debug
